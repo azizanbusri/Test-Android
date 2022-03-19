@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestProjAnd</string>
+    <string name="api_key">QhYmHzOevePoHl6pMWoRGcR4SGGpRh8f</string>
+    <string name="search_articles">Search Articles</string>
+</resources>
